@@ -82,14 +82,14 @@ name:           Tep Network | TheEastPacific.com
 # - name_short: Sparanoid
 #
 # Default:      AMSF
-name_short:     TEP
+name_short:     Tep
 
 # Site description
 #
 # Will be used in the document meta and Atom feed subtitle
 #
 # Default:      Super-fast Jekyll framework
-description:    The East Pacific's Homepage
+description:    Tep Network's Homepage
 
 # Base URL
 #
